@@ -3,7 +3,7 @@
 Marvin
 </h1>
 
-<p align="center">Virtual assistent that can open websites and do researchs on them, open programs, play music, set reminders and add new voice commands without need to code</p>
+<p align="center">Virtual assistant that can open websites and do researches on them, open programs, play music, set reminders and add new voice commands without need to code</p>
 👉Youtube link demonstrating the bot: https://youtu.be/jjMbnQShabM
 
 ## 📜 About
